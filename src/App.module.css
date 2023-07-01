@@ -1,0 +1,10 @@
+.fondo {
+   border: 1px; ;
+   color:darkturquoise ;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100%;
+   margin: 2em;  
+   
+}
